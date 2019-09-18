@@ -1,0 +1,13 @@
+****** Content Ranker by Enggsolution Academy ***********
+
+Use:: This tool is useful for content writers to check their content is appropriate for ranking or not.This Tool includes google search algorithms and creates a virtual ranking system.
+
+How to use::
+
+1.Put all files in one folder
+2. Run content ranker application
+3. Write your content in textbox provided.
+4. Go to google trends and search for latest trendings
+5. install keywords everywhere extension in your chrome browser and import a csv for a keyword
+6. click submit button and choose the appropriate imported csv
+
